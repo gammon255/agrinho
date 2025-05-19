@@ -1,0 +1,9 @@
+ //usando mapa()para ajustar a cor do fundo de forma mas controlada 
+  let corfundo = lerpColor(color(217,112,26),color(219,239,208)
+map(totalArvore,0,100,0,1)  
+  background(corfundo);
+ mostrarInformacoes() 
+ temperatura +=0,1 
+  jardineiro.atualizar()
+  jardineiro.mostrar()
+  
